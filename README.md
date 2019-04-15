@@ -14,10 +14,8 @@
 1. VS Code tips
 2. Debugging code using the browser
 3. Unit testing
-  - coverage 
+    - coverage 
 4. UI testing 
-  - Puppeteer
-  - WebDriver
-  - Cypress
-  - Many more
-  
+    - Puppeteer
+    - WebDriver
+    - Cypress
