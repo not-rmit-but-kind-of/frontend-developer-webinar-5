@@ -14,6 +14,9 @@
 1. VS Code tips
 2. Debugging code using the browser
 3. Unit testing
+    - Popular options: Jest, Mocha and Jasmine
+    - Assertions
+    - Mocking/stubbing 
     - coverage 
 4. UI testing 
     - Puppeteer
