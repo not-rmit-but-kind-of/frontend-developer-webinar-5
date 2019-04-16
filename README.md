@@ -17,7 +17,8 @@
     - Popular options: Jest, Mocha and Jasmine
     - Assertions
     - Mocking/stubbing 
-    - coverage 
+    - File naming conventions (*.test.js, *.spec.js)
+    - Coverage 
 4. UI testing 
     - Puppeteer
     - WebDriver
