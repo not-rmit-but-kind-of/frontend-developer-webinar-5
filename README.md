@@ -17,7 +17,7 @@
     - Popular options: Jest, Mocha and Jasmine
     - Assertions
     - Mocking/stubbing 
-    - File naming conventions (*.test.js, *.spec.js)
+    - File naming conventions (*.test.js, *.spec.js) / `__test__`
     - Coverage 
 4. UI testing 
     - Puppeteer
