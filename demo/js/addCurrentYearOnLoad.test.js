@@ -1,7 +1,7 @@
 import addCurrentYearOnLoad from './addCurrentYearOnLoad.js'
 
 describe('addCurrentYearOnLoad', () => {
-  test('test', () => {
+  test('WILL wait for DOMContentLoaded event and once triggered will add the current yeat to element with id = "year"', () => {
     document.body.innerHTML = `
     <nav>
       <div>
@@ -28,7 +28,5 @@ describe('addCurrentYearOnLoad', () => {
         <a href="about-me.html">about me</a>
       </div>
       <div id="year">It's ${expectedYear}, you're welcome</div></nav>`)
-
-      console.log(document.body.innerHTML)
   })
 })
